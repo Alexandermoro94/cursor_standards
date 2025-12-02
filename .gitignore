@@ -1,0 +1,5 @@
+.DS_Store
+# Игнорируем всё кроме папки standards/
+/*
+!standards/
+!.gitignore
