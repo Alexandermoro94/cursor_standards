@@ -2,4 +2,8 @@
 # Игнорируем всё кроме папки standards/
 /*
 !standards/
+!Context7/
+!.cursor/
+.cursor/*
+!.cursor/mcp.json
 !.gitignore
