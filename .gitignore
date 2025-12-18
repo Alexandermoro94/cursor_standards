@@ -1,8 +1,13 @@
 .DS_Store
-# Игнорируем всё кроме папки standards/
+# Игнорируем всё кроме разрешённых папок
 /*
 !standards/
 !Context7/
+!projects/
+projects/*
+!projects/mentoring/
+projects/mentoring/*
+!projects/mentoring/Le Tresor/
 !.cursor/
 .cursor/*
 !.cursor/mcp.json
